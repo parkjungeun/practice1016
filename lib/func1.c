@@ -4,5 +4,6 @@
 void func1()
 {
 	printf("FUNC1 HELLO!\n");
-	printf("This is first\n");
+	printf("This is second\n");
+	scanf();
 }
