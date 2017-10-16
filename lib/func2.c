@@ -4,4 +4,5 @@
 void func2()
 {
 	printf("FUNC2 HELLO!\n");
+	printf("FUNC2 : Third change!\n");
 }
